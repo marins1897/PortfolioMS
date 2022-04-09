@@ -101,9 +101,9 @@ export const Work = [
         name:"Personal Portfolio App",
         description:["Personal portfolio made by using React.js , styled components and React Motion."],
        
-        imgSrc:'https://github.com/marins1897/add-fetch-Movie-http/blob/main/Movie.jpg?raw=true',
-        demo:"https://add-fetch-movie-http.vercel.app/",
-        github:"https://github.com/marins1897/add-fetch-Movie-http",
+        imgSrc:'https://github.com/marins1897/PortfolioMS/blob/main/PortfolioMS.jpg?raw=true',
+        demo:"https://marins.vercel.app/",
+        github:"https://github.com/marins1897/PortfolioMS",
      
     },
     {
