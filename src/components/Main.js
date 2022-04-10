@@ -259,7 +259,7 @@ const Main = (props) => {
             <CV 
               click={+click}
               target="_blank"
-              to={{ pathname: "../assets/MarinSamardzic_CV.docx" }} download
+              to={{ pathname: "../../MarinSamardzic_CV.docx" }} download
             >
               <motion.button
                 initial={{
@@ -280,7 +280,7 @@ const Main = (props) => {
             <CV
               click={+false}
               target="_blank"
-              to={{ pathname: "../assets/MarinSamardzic_CV.docx" }} download
+              to={{ pathname: "../../MarinSamardzic_CV.docx" }} download
             >
               <motion.button
                 initial={{
