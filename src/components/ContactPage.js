@@ -63,8 +63,8 @@ const Main = styled(motion.ul)`
 
 position: fixed;
 top: 12rem;
-left:10%;
-right: 10%;
+left:12%;
+right: 12%;
 height: 40vh;
 display: flex;
 color:${props => props.theme.body};
