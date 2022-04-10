@@ -29,8 +29,8 @@ ${mediaQueries(40)`
 left: 1rem;
 
     svg{
-      width:20px;
-      height:20px
+      width:30px;
+      height:30px
     }
 
 `};
