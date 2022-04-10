@@ -50,6 +50,7 @@ height: 60vh;
 margin-bottom: 5%;
 line-height: 1.5;
 cursor: pointer;
+backdrop-filter: blur(3px);
 
 ${mediaQueries(60)`
 height: 55vh;
