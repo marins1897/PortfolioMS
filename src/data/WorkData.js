@@ -3,12 +3,12 @@
 export const Work = [
     {
         id:1,
-        name:"Expense Filter App",
-        description:["App build in React.js. With add new expense funcionallity, expenses filtered by month."],
+        name:"News AI App",
+        description:["AI App build in React.js with Alan AI. Search news by voice. Talk with App. Search by categories, terms or sources. Chat with AI."],
        
-        imgSrc: 'https://github.com/marins1897/Expenses-filter/blob/main/ExpensesFilter111.jpg?raw=true',
-        demo:"https://expenses-filter-orpin.vercel.app/",
-        github:"https://github.com/marins1897/Expenses-filter",
+        imgSrc: 'https://github.com/marins1897/NewsAI-React/blob/main/NewsAI.jpg?raw=true',
+        demo:"https://news-ai-react.vercel.app/",
+        github:"https://github.com/marins1897/NewsAI-React",
 
     },
     {
@@ -75,16 +75,15 @@ export const Work = [
         demo:"https://weather-app-bice-nu.vercel.app/",
         github:"https://github.com/marins1897/WeatherApp",
      
-    },
-    {
+    },{
         id:8,
-        name:"To Do App",
-        description:["To Do App builded with Typescript and React.js."],
+        name:"Expense Filter App",
+        description:["App build in React.js. With add new expense funcionallity, expenses filtered by month."],
        
-        imgSrc:'https://github.com/marins1897/ToDoApp-Typescript/blob/main/ToDoTypeScript.jpg?raw=true',
-        demo:"https://to-do-app-typescript.vercel.app/",
-        github:"https://github.com/marins1897/ToDoApp-Typescript",
-     
+        imgSrc: 'https://github.com/marins1897/Expenses-filter/blob/main/ExpensesFilter111.jpg?raw=true',
+        demo:"https://expenses-filter-orpin.vercel.app/",
+        github:"https://github.com/marins1897/Expenses-filter",
+
     },
     {
         id:9,
@@ -107,7 +106,7 @@ export const Work = [
      
     },
     {
-        id:12,
+        id:24,
         name:"To Do",
         description:["To Do App builded by React Custom hook. Tasks added to Firebase and fetched."],
        
@@ -124,6 +123,16 @@ export const Work = [
         imgSrc:'https://github.com/marins1897/Authentication/blob/main/Authentication.jpg?raw=true',
         demo:"https://authentication-nine.vercel.app/",
         github:"https://github.com/marins1897/Authentication",
+     
+    },
+    {
+        id:12,
+        name:"To Do App",
+        description:["To Do App builded with Typescript and React.js."],
+       
+        imgSrc:'https://github.com/marins1897/ToDoApp-Typescript/blob/main/ToDoTypeScript.jpg?raw=true',
+        demo:"https://to-do-app-typescript.vercel.app/",
+        github:"https://github.com/marins1897/ToDoApp-Typescript",
      
     },
     {
