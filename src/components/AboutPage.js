@@ -135,7 +135,7 @@ const AboutPage = () => {
               animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}
              > 
 
-            I am a front-end developer located in Croatia. 
+            I am a front-end and blockchain developer located in Croatia. 
             I am focused on creating beautiful and user-friendly applications while writing clean code, and I love what I do.
              <br/><br/>
             Well-organised person, logical thinker and problem solver with high of attention to details. 
@@ -145,7 +145,7 @@ const AboutPage = () => {
                  <br/><br />
             “There are three responses to a piece of code - yes, no, and WOW! Wow is the one to aim for”
                   <br /><br/>
-            Interesed in the entire Frontend stack and working on ambitious projects with positive people.
+            Interesed in the entire Frontend and Blockchain stack while working on ambitious projects with positive people.
                 <br/>
             You can connect with me via social links.{' '}
 
