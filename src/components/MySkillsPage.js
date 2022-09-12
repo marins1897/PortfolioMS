@@ -171,21 +171,21 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
               <Main>
                   <Title>
-                     <Develope width={40} height={40} /> Frontend Developer
+                     <Develope width={40} height={40} /> Developer
                   </Title>
                      <Description>
                      I enjoy bringing new ideas to life. It gives me new creative ideas and improves my logical thinking.
                      </Description>
                      <Description>
                      <strong>Skills</strong>
-                     <p> HTML, Javascript, React.js, Redux, Typescript, Next.js,  Bootstrap, CSS,
-                           WordPress, Figma  </p>
+                     <p> HTML, Javascript, React.js, CSS, Typescript, Next.js,  Solidity, web3,
+                           Smart Contracts  </p>
                      </Description>
                      <Description>
                      <strong>Tools</strong>
                      <p>
                          
-                            VSCode, API, REST API, NPM, git, jest, Github
+                            VSCode, API, REST API, NPM, git, jest, Remix IDE
                                                   
                      </p>
                      </Description>
