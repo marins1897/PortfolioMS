@@ -6,7 +6,7 @@ export const Work = [
         name:"Campaign Smart Contract",
         description:["Crowdfunding smart contract. Donate to campaign and vote. Made with Solidity, web3, Next.js on Rinkeby Ethereum test network."],
        
-        imgSrc: 'https://github.com/marins1897/PortfolioMS/blob/main/src/data/DataImages/Campaign.jpg',
+        imgSrc: 'https://github.com/marins1897/PortfolioMS/blob/main/src/data/DataImages/Campaign.jpg?raw=true',
         demo:"",
         github:"https://github.com/marins1897/campaign-SmartContract",
     },
@@ -15,7 +15,7 @@ export const Work = [
         name:"Lottery Smart Contract",
         description:["Buy lottery ticket on blockchain and be a winner. Made with Solidity, web3, React on Rinkeby Ethereum test network."],
        
-        imgSrc: 'https://github.com/marins1897/PortfolioMS/blob/main/src/data/DataImages/Lottery.jpg',
+        imgSrc: 'https://github.com/marins1897/PortfolioMS/blob/main/src/data/DataImages/Lottery.jpg?raw=true',
         demo:"",
         github:"https://github.com/marins1897/lottery-SmartContract",
     },
