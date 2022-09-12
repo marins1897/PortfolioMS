@@ -208,7 +208,7 @@ const Intro = () => {
 
           <h3>I'm Marin.</h3>
 
-          <h6>Frontend Developer who loves to convert designs into code.</h6>
+          <h6>Developer who loves to bring new ideas to life!</h6>
         </Text>
       </SubBox>
       <SubBox>
