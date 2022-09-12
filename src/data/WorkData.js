@@ -2,7 +2,25 @@
 
 export const Work = [
     {
-        id:1,
+      id:1,
+        name:"Campaign Smart Contract",
+        description:["Crowdfunding smart contract. Donate to campaign and vote. Made with Solidity, web3, Next.js on Rinkeby Ethereum test network."],
+       
+        imgSrc: 'https://github.com/marins1897/PortfolioMS/blob/main/src/data/DataImages/Campaign.jpg',
+        demo:"",
+        github:"https://github.com/marins1897/campaign-SmartContract",
+    },
+    {
+      id:2,
+        name:"Lottery Smart Contract",
+        description:["Buy lottery ticket on blockchain and be a winner. Made with Solidity, web3, React on Rinkeby Ethereum test network."],
+       
+        imgSrc: 'https://github.com/marins1897/PortfolioMS/blob/main/src/data/DataImages/Lottery.jpg',
+        demo:"",
+        github:"https://github.com/marins1897/lottery-SmartContract",
+    },
+    {
+        id:3,
         name:"News AI App",
         description:["AI App build in React.js with Alan AI. Search news by voice. Talk with App. Search by categories, terms or sources. Chat with AI."],
        
@@ -12,7 +30,7 @@ export const Work = [
 
     },
     {
-        id:2,
+        id:4,
         name:"Food Bonnie App",
         description:["Order food App, with cart, list of meals and detail of order. Build with React.js and Firebase."],
        
@@ -26,7 +44,7 @@ export const Work = [
         
     },
     {
-        id:3,
+        id:5,
         name:"Redux Shop",
         description:["A small React Redux shop with Firebase. Message about cart state displayed in case of Error, Sending or Success message."],
        
@@ -36,7 +54,7 @@ export const Work = [
    
     },
     {
-        id:4,
+        id:6,
         name:"NK Croatia Zmijavci",
         description:["Unofficial website for football club build using PHP, HTML, Javascript and MySql. Admin dashboard with Publish, Edit and Delete Post, User, Match.."],
        
@@ -46,7 +64,7 @@ export const Work = [
        
        
     },{
-        id:5,
+        id:7,
         name:"Meetups App",
         description:["Fill the form with new Meetup. List of inputed Meetups displayed on Main Page. Build using Next.js and MongoDB. "],
        
@@ -57,7 +75,7 @@ export const Work = [
         
     },
     {
-        id:6,
+        id:8,
         name:"Quotes SPA",
         description:["Quotes Single Page Application builded using React Router and Firebase. Sort Qoutes, Add New Quote, Load and Add Comments."],
        
@@ -67,7 +85,7 @@ export const Work = [
      
     },
     {
-        id:7,
+        id:9,
         name:"Weather App",
         description:["Weather forecast App. Display current weather in typed city and forecast for next few days. Build with React.js and Bootstrap."],
        
@@ -76,7 +94,7 @@ export const Work = [
         github:"https://github.com/marins1897/WeatherApp",
      
     },{
-        id:8,
+        id:10,
         name:"Expense Filter App",
         description:["App build in React.js. With add new expense funcionallity, expenses filtered by month."],
        
@@ -86,7 +104,7 @@ export const Work = [
 
     },
     {
-        id:9,
+        id:11,
         name:"Movie App",
         description:["Add Movie Title, Opening text and Release date. Movie will be added to Firebase, fetched from there and displayed."],
        
@@ -96,7 +114,7 @@ export const Work = [
      
     },
     {
-        id:10,
+        id:12,
         name:"Personal Portfolio App",
         description:["Personal portfolio made by using React.js , styled components and React Motion."],
        
@@ -106,17 +124,7 @@ export const Work = [
      
     },
     {
-        id:24,
-        name:"To Do",
-        description:["To Do App builded by React Custom hook. Tasks added to Firebase and fetched."],
-       
-        imgSrc:'https://github.com/marins1897/ToDo-List-customHook/blob/main/CustomToDo.jpg?raw=true',
-        demo:"https://to-do-list-custom-hook.vercel.app/",
-        github:"https://github.com/marins1897/ToDo-List-customHook",
-     
-    },
-    {
-        id:11,
+        id:13,
         name:"Authentication App",
         description:["React Authentication App with Firebase and Firebase REST API. Using the token for request to protected resources and adding auto log out."],
        
@@ -126,7 +134,7 @@ export const Work = [
      
     },
     {
-        id:12,
+        id:14,
         name:"To Do App",
         description:["To Do App builded with Typescript and React.js."],
        
@@ -136,7 +144,7 @@ export const Work = [
      
     },
     {
-        id:14,
+        id:15,
         name:"Redux Auth",
         description:["Authentication and Counter App build with React Redux and Redux Toolkit."],
        
@@ -146,7 +154,7 @@ export const Work = [
      
     },
     {
-        id:13,
+        id:16,
         name:"Forms And User Input",
         description:["Working with forms and user input in React.js. Validating user input and providing validation feedback."],
        
@@ -156,7 +164,7 @@ export const Work = [
      
     },
     {
-        id:16,
+        id:17,
         name:"Visit Otok",
         description:["Website for tourist agency Visit Otok. Made by using HTML, CSS and Javascript. School project."],
        
@@ -166,7 +174,7 @@ export const Work = [
      
     },
     {
-        id:15,
+        id:18,
         name:"Login User",
         description:["Login User to Some Page with React Hooks, useContext, useReducer, useEffect."],
        
@@ -186,7 +194,7 @@ export const Work = [
      
     },
     {
-        id:17,
+        id:20,
         name:"Favorite App",
         description:["Click on Product to make it Favorite. Made with custom Hooks."],
        
@@ -196,7 +204,7 @@ export const Work = [
      
     },
     {
-        id:18,
+        id:21,
         name:"Ingredients ",
         description:["Ingredient App made with React custom Hook. Add new Ingredient, filter ingredients and fetch and load ingredients with Firebase."],
        
@@ -206,7 +214,7 @@ export const Work = [
      
     },
     {
-        id:20,
+        id:22,
         name:"Add User App",
         description:["Add new User by submitting Form. Made with React useState."],
        
@@ -216,7 +224,7 @@ export const Work = [
      
     },
     {
-        id:21,
+        id:23,
         name:"Goal App",
         description:["Add new goal. Made with React useState. Styling invalid input with CSS modules."],
        
@@ -226,7 +234,7 @@ export const Work = [
      
     },
     {
-        id:22,
+        id:24,
         name:"Portfolio",
         description:["Personal portfolio made with HTML, CSS, Javascript."],
        
@@ -236,13 +244,23 @@ export const Work = [
      
     },
     {
-        id:23,
+        id:25,
         name:"Show Hide User",
         description:["Show and Hide Added User made with React class based components."],
        
         imgSrc:'https://github.com/marins1897/Add-Hide-User/blob/main/ShowHide.jpg?raw=true',
         demo:"https://add-hide-user-eakacqr1k-marins1897.vercel.app/",
         github:"https://github.com/marins1897/Add-Hide-User",
+     
+    },
+     {
+        id:26,
+        name:"To Do",
+        description:["To Do App builded by React Custom hook. Tasks added to Firebase and fetched."],
+       
+        imgSrc:'https://github.com/marins1897/ToDo-List-customHook/blob/main/CustomToDo.jpg?raw=true',
+        demo:"https://to-do-list-custom-hook.vercel.app/",
+        github:"https://github.com/marins1897/ToDo-List-customHook",
      
     },
 
