@@ -176,7 +176,7 @@ export const Work = [
     {
         id:18,
         name:"Login User",
-        description:["Login User to Some Page with React Hooks, useContext, useReducer, useEffect."],
+        description:["Login User to Some Page with React Hooks, useContext, useReducer and useEffect."],
        
         imgSrc:'https://github.com/marins1897/LoginLogout-from-SomePage/blob/main/Login.jpg?raw=true',
         demo:"https://login-logout-from-some-page.vercel.app/",
