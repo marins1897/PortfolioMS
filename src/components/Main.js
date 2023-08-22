@@ -8,7 +8,7 @@ import Intro from './Intro';
 import { motion } from 'framer-motion';
 import Loading from "../subComponents/Loading";
 import { mediaQueries } from "./Themes";
-import MyCV from '../assets/MarinSamardzic_CV.docx';
+import MyCV from '../assets/Marin_Samardzic_CV.docx';
 
 
 const SocialIcons = lazy(() => import("./../subComponents/SocialIcons"));
@@ -259,7 +259,7 @@ const Main = (props) => {
             <CV 
               click={+click}
               target="_blank"
-             to={MyCV}  download="MarinSamardzic_CV.docx"
+             to={MyCV}  download="Marin_Samardzic_CV.docx"
             >
               <motion.button
                 initial={{
@@ -280,7 +280,7 @@ const Main = (props) => {
             <CV
               click={+false}
               target="_blank"
-              to={MyCV}  download="MarinSamardzic_CV.docx"
+              to={MyCV}  download="Marin_Samardzic_CV.docx"
             >
               <motion.button
                 initial={{
